@@ -2,6 +2,10 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jonathanwehnert.github.io/neuro-nav)
 
+# My Voilà App
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonathanwehnert/neuro-nav/HEAD?urlpath=voila%2Frender%2Findex.ipynb)
+
 [Voici](https://github.com/voila-dashboards/voici) deployed as a static site to GitHub Pages, for demo purposes.
 
 It uses [jupyterlite-xeus](https://github.com/jupyterlite/xeus) to build the Emscripten environment, including the **xeus-python** kernel and run dependencies.
